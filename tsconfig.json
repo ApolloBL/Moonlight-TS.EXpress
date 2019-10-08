@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "pretty": true,
+        "module": "commonjs",
+        "target": "ES5",
+        "outDir": "build",
+        "rootDir": "src",
+        "moduleResolution": "node"
+    }
+}
