@@ -6,7 +6,7 @@
   "author": "ScorpIOn Company",
   "scripts": {},
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "colors": "^1.3.0",
     "connect-assets": "^5.4.0",
